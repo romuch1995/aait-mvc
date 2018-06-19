@@ -147,6 +147,7 @@
     <Compile Include="Controllers\KateController.cs" />
     <Compile Include="Controllers\Orest2Controller.cs" />
     <Compile Include="Controllers\OrestController.cs" />
+    <Compile Include="Controllers\LexoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -192,6 +193,7 @@
     <Content Include="Views\Luka\Index.cshtml" />
     <Content Include="Views\Kate\Index.cshtml" />
     <Content Include="Views\Orest\Index.cshtml" />
+    <Content Include="Views\Lexo\Index.cshtml" />
     <Content Include="Views\Orest2\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
