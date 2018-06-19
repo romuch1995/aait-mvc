@@ -143,12 +143,13 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\SexyGochaController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\LukaController.cs" />
+=======
     <Compile Include="Controllers\KateController.cs" />
     <Compile Include="Controllers\Orest2Controller.cs" />
     <Compile Include="Controllers\OrestController.cs" />
-    <Compile Include="Controllers\LexoController.cs" />
+>>>>>>> 3ff83b6a4c61df2430c21ede8ce3107d91a686f1
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -191,12 +192,13 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\SexyGocha\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Luka\Index.cshtml" />
+=======
     <Content Include="Views\Kate\Index.cshtml" />
     <Content Include="Views\Orest\Index.cshtml" />
-    <Content Include="Views\Lexo\Index.cshtml" />
     <Content Include="Views\Orest2\Index.cshtml" />
+>>>>>>> 3ff83b6a4c61df2430c21ede8ce3107d91a686f1
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
