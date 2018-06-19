@@ -145,12 +145,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RomanPController.cs" />
     <Compile Include="Controllers\RomanSController.cs" />
-    <Compile Include="Controllers\SexyGochaController.cs" />
-    <Compile Include="Controllers\LukaController.cs" />
-    <Compile Include="Controllers\KateController.cs" />
-    <Compile Include="Controllers\Orest2Controller.cs" />
-    <Compile Include="Controllers\OrestController.cs" />
-    <Compile Include="Controllers\LexoController.cs" />
+    <Compile Include="Controllers\RomanSController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -193,19 +188,13 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\SexyGocha\Index.cshtml" />
-    <Content Include="Views\Luka\Index.cshtml" />
-    <Content Include="Views\Kate\Index.cshtml" />
-    <Content Include="Views\Orest\Index.cshtml" />
-    <Content Include="Views\Lexo\Index.cshtml" />
-    <Content Include="Views\Orest2\Index.cshtml" />
+    <Content Include="Views\RomanS\Index.cshtml" />
     <Content Include="Views\RomanP\Index.cshtml" />
     <Content Include="Views\Orest2\Index2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\RomanS\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
