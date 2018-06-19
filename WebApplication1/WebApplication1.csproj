@@ -145,6 +145,8 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RomanPController.cs" />
     <Compile Include="Controllers\RomanSController.cs" />
+    <Compile Include="Controllers\RomanPController.cs" />
+    <Compile Include="Controllers\RomanSController.cs" />
     <Compile Include="Controllers\RomanSController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -189,6 +191,8 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\RomanS\Index.cshtml" />
+    <Content Include="Views\RomanP\Index.cshtml" />
+    <Content Include="Views\Orest2\Index2.cshtml" />
     <Content Include="Views\RomanP\Index.cshtml" />
     <Content Include="Views\Orest2\Index2.cshtml" />
   </ItemGroup>
