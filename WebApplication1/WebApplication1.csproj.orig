@@ -146,13 +146,15 @@
 <<<<<<< HEAD
     <Compile Include="Controllers\RomanSController.cs" />
 =======
+    <Compile Include="Controllers\RomanPController.cs" />
+    <Compile Include="Controllers\RomanSController.cs" />
     <Compile Include="Controllers\SexyGochaController.cs" />
->>>>>>> ed7c77aa12b5143f9fc8d7c37115cb54d4181952
     <Compile Include="Controllers\LukaController.cs" />
     <Compile Include="Controllers\KateController.cs" />
     <Compile Include="Controllers\Orest2Controller.cs" />
     <Compile Include="Controllers\OrestController.cs" />
     <Compile Include="Controllers\LexoController.cs" />
+>>>>>>> 0242899b38e3ad0dda1c0838d0f2eb8ce3a3fdd2
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -195,17 +197,22 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+<<<<<<< HEAD
+    <Content Include="Views\RomanS\Index.cshtml" />
+=======
     <Content Include="Views\SexyGocha\Index.cshtml" />
     <Content Include="Views\Luka\Index.cshtml" />
     <Content Include="Views\Kate\Index.cshtml" />
     <Content Include="Views\Orest\Index.cshtml" />
     <Content Include="Views\Lexo\Index.cshtml" />
     <Content Include="Views\Orest2\Index.cshtml" />
+    <Content Include="Views\RomanP\Index.cshtml" />
+    <Content Include="Views\Orest2\Index2.cshtml" />
+>>>>>>> 0242899b38e3ad0dda1c0838d0f2eb8ce3a3fdd2
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\RomanS\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
