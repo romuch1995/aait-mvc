@@ -143,7 +143,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\RomanSController.cs" />
+    <Compile Include="Controllers\SexyGochaController.cs" />
     <Compile Include="Controllers\LukaController.cs" />
     <Compile Include="Controllers\KateController.cs" />
     <Compile Include="Controllers\Orest2Controller.cs" />
@@ -191,6 +191,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\SexyGocha\Index.cshtml" />
     <Content Include="Views\Luka\Index.cshtml" />
     <Content Include="Views\Kate\Index.cshtml" />
     <Content Include="Views\Orest\Index.cshtml" />
